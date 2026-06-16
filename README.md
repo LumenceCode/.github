@@ -1,2 +1,0 @@
-# Lumence
-job listings & more
