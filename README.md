@@ -1,2 +1,2 @@
-# .github
-ehh about us i guess
+# Lumence
+job listings & more
